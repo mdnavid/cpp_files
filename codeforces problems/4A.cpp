@@ -5,7 +5,7 @@ using namespace std ;
 int main()
 {
 
-    int a ;
+    /*int a ;
 
     cin >> a ;
 
@@ -14,6 +14,16 @@ int main()
     else
         cout << "NO" << endl ;
 
-    return 0 ;
+
+    return 0 ;*/
+
+    int b = 0 ;
+
+    while (b=5)
+    {
+        cout << "what the hell/n" ;
+    }
+    
+
 
 }
