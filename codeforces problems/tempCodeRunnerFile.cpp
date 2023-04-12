@@ -1,1 +1,2 @@
-7
+
+using namespace std ;
